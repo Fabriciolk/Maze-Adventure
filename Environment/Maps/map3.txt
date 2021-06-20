@@ -1,0 +1,22 @@
+9 15
+..........X....
+XX.XXXX.X.X.XXX
+.X...X..X.X....
+.X..XX..X...X..
+.X......X.XXXX.
+.......XX...X..
+...X....X...XX.
+.XXXXX.........
+....X...X...X..
+9
+0 9 5 Brown
+2 4 2 Brown
+3 9 7 Black
+3 13 6 Green
+7 8 5 White
+8 13 11 Yellow
+5 1 20 Brown
+6 1 5 Black
+4 4 60 Blue
+0 0
+0 14
