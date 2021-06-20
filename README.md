@@ -11,7 +11,7 @@ As mentioned, the adventurer will explore que maze in a trial and error approach
 
 ### How to use
 
-To create the maze and all items and your attribute, a text file is given. The file has a default format that consist in a line that contain the number of line and the number of columns of matrix, n lines below that represents the matrix itself, where '.' is a free position and 'X' is a wall, a line that contain a single number, representing the number of items in maze, m lines below for each item, following the format (coordinateX) (coordinteY) (value) (name). Finally, two lines that represent the initial and final positions (coodinates), respectivly, following the format (coordinateX) (coordinteY). The default file is below:
+To create the maze and all items and your attribute, a text file is given (terminal argument: java MazeAdventure file.txt). The file has a default format that consist in a line that contain the number of line and the number of columns of matrix, n lines below that represents the matrix itself, where '.' is a free position and 'X' is a wall, a line that contain a single number, representing the number of items in maze, m lines below for each item, following the format (coordinateX) (coordinteY) (value) (name). Finally, two lines that represent the initial and final positions (coodinates), respectivly, following the format (coordinateX) (coordinteY). The default file is below:
 
 ```
 7 5
