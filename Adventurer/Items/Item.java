@@ -1,4 +1,4 @@
-package MazeAdventurer.Adventurer.Items;
+package Adventurer.Items;
 
 public class Item
 {

@@ -1,6 +1,6 @@
-package MazeAdventurer.Adventurer.Path;
+package Adventurer.Path;
 
-import MazeAdventurer.Adventurer.Items.Item;
+import Adventurer.Items.Item;
 
 public class Path
 {

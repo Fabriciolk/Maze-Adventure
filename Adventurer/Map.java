@@ -1,8 +1,8 @@
-package MazeAdventurer.Adventurer;
+package Adventurer;
 
-import MazeAdventurer.Adventurer.Path.Path;
-import MazeAdventurer.Environment.Maze;
-import MazeAdventurer.Adventurer.Path.Step;
+import Adventurer.Path.Path;
+import Environment.Maze;
+import Adventurer.Path.Step;
 
 public class Map
 {

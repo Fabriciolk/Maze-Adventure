@@ -1,8 +1,7 @@
-package MazeAdventurer;
 
-import MazeAdventurer.Adventurer.Adventurer;
-import MazeAdventurer.Adventurer.Path.Path;
-import MazeAdventurer.Adventurer.Path.Step;
+import Adventurer.Adventurer;
+import Adventurer.Path.Path;
+import Adventurer.Path.Step;
 
 public class Result
 {

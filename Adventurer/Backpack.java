@@ -1,6 +1,6 @@
-package MazeAdventurer.Adventurer;
+package Adventurer;
 
-import MazeAdventurer.Adventurer.Items.Item;
+import Adventurer.Items.Item;
 
 import java.util.Arrays;
 

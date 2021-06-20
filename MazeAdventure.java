@@ -1,9 +1,7 @@
-package MazeAdventurer;
-
-import MazeAdventurer.Adventurer.Adventurer;
-import MazeAdventurer.Adventurer.Backpack;
-import MazeAdventurer.Adventurer.Map;
-import MazeAdventurer.Environment.Maze;
+import Adventurer.Adventurer;
+import Adventurer.Backpack;
+import Adventurer.Map;
+import Environment.Maze;
 
 public class MazeAdventure
 {
