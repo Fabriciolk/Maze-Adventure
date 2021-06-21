@@ -1,7 +1,7 @@
-package MazeAdventurer.Environment;
+package Environment;
 
-import MazeAdventurer.Adventurer.Items.Gem;
-import MazeAdventurer.Adventurer.Items.Item;
+import Adventurer.Items.Gem;
+import Adventurer.Items.Item;
 
 import java.io.*;
 import java.util.Scanner;
@@ -14,7 +14,7 @@ public class Maze
         end positions.
     */
 
-    private final String defaultMapFile = "MazeAdventurer/Environment/Maps/mapDefault.txt";
+    private final String defaultMapFile = "Environment/Maps/mapDefault.txt";
     private final int[] start = new int[2];
     private final int[] end = new int[2];
     private boolean[][] maze;

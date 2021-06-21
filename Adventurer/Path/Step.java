@@ -1,4 +1,4 @@
-package MazeAdventurer.Adventurer.Path;
+package Adventurer.Path;
 
 public class Step
 {
