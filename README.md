@@ -7,7 +7,7 @@ This program is about a adventurer that explore a maze from a initial to a final
 
 ### How it works
 
-As mentioned, the adventurer will explore que maze in a trial and error approach, where each position (coordinate) of the matrix that represent the maze will use recursion for each direction (left, up, right, down). The adventurer will have a backpack and a map which he/she could put the items along the currently path and write each steps was taken, so that each item contain a weight and the time to take one step is increased. Once reached the final position, the adventurer will register all steps taken and give back the item according to the item's coordinate (backtracking) and trying another path.
+As mentioned, the adventurer will explore que maze in a trial and error approach, where each position (coordinate) of the matrix that represent the maze will use recursion for each direction (left, up, right, down). The adventurer will have a backpack and a map which he/she could put the items along the currently path and write each step was taken, so that each item contain a weight and the time to take one step is increased. Once reached the final position, the adventurer will register all steps taken and give back the item according to the item's coordinate (backtracking) and trying another path.
 
 ### How to use
 
