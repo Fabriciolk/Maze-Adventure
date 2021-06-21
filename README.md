@@ -1,7 +1,7 @@
 # Maze-Adventurer
 A trial and error approach in a maze 
 
-### What it is about
+### What is it about
 
 This program is about a adventurer that explore a maze with valuable items from a initial to a final position and finding all best paths, according a attribute. There are the shortest, longest, most valuable and fastest paths, which shortest and longest means the minimum and maximum number of steps to reach the final position.
 
