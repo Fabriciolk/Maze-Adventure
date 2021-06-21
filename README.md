@@ -32,7 +32,7 @@ To create the maze and all items and your attribute, a text file is given (termi
 
 ### Result
 
-Ater tried all possible paths in maze, the program will print on screen (terminal) all best paths, in order shortest, longest, most valuable and fastest. Each impression is a matrix where the inicial position is a char 'I', the final position is a char 'F' and tha path is represented as a sequence of chars 'o'. The result for the default file is below:
+Ater tried all possible paths in maze, the program will print on screen (terminal) all best paths, in order shortest, longest, most valuable and fastest. Each impression is a matrix where the inicial position is a char 'I', the final position is a char 'F' and the path is represented as a sequence of chars 'o'. The result for the default file is below:
 
 ```
 Shortest path:
