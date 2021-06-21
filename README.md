@@ -36,7 +36,7 @@ Ater tried all possible paths in maze, the program will print on screen (termina
 
 ```
 Shortest path:
-Steps: 7; Value: 7; Weight: 1; Time: 6.63
+Steps: 6; Value: 7; Weight: 1; Time: 6.63
 
 . . F . .
 . X o X . 
@@ -47,7 +47,7 @@ Steps: 7; Value: 7; Weight: 1; Time: 6.63
 . . I . . 
 
 Longest path: 
-Steps: 15; Value: 14; Weight: 5; Time: 25.63
+Steps: 14; Value: 14; Weight: 5; Time: 25.63
 
 . . F o o 
 . X . X o 
@@ -58,7 +58,7 @@ o X . X .
 o o I . . 
 
 Most valuable path: 
-Steps: 11; Value: 14; Weight: 12; Time: 27.28
+Steps: 10; Value: 14; Weight: 12; Time: 27.28
 
 o o F . . 
 o X . X . 
@@ -69,7 +69,7 @@ o X . X .
 o o I . . 
 
 Fastest path: 
-Steps: 7; Value: 7; Weight: 1; Time: 6.63
+Steps: 6; Value: 7; Weight: 1; Time: 6.63
 
 . . F . . 
 . X o X . 
