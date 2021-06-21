@@ -107,19 +107,19 @@ public class Result
     public void printResults()
     {
         System.out.println("Shortest path:");
-        System.out.println("Steps: " + adv.map.shortest.totalSteps + "; Value: " + adv.map.shortest.totalValue + "; Weight: " + adv.map.shortest.totalWeight + "; Time: " + adv.map.shortest.totalTime + "\n");
+        System.out.println("Steps: " + (adv.map.shortest.totalSteps - 1) + "; Value: " + adv.map.shortest.totalValue + "; Weight: " + adv.map.shortest.totalWeight + "; Time: " + adv.map.shortest.totalTime + "\n");
         printMatrix(shortestMatrix);
 
         System.out.println("\nLongest path: ");
-        System.out.println("Steps: " + adv.map.longest.totalSteps + "; Value: " + adv.map.longest.totalValue + "; Weight: " + adv.map.longest.totalWeight + "; Time: " + adv.map.longest.totalTime + "\n");
+        System.out.println("Steps: " + (adv.map.longest.totalSteps - 1) + "; Value: " + adv.map.longest.totalValue + "; Weight: " + adv.map.longest.totalWeight + "; Time: " + adv.map.longest.totalTime + "\n");
         printMatrix(longestMatrix);
 
         System.out.println("\nMost valuable path: ");
-        System.out.println("Steps: " + adv.map.valuable.totalSteps + "; Value: " + adv.map.valuable.totalValue + "; Weight: " + adv.map.valuable.totalWeight + "; Time: " + adv.map.valuable.totalTime + "\n");
+        System.out.println("Steps: " + (adv.map.valuable.totalSteps - 1) + "; Value: " + adv.map.valuable.totalValue + "; Weight: " + adv.map.valuable.totalWeight + "; Time: " + adv.map.valuable.totalTime + "\n");
         printMatrix(valuableMatrix);
 
         System.out.println("\nFastest path: ");
-        System.out.println("Steps: " + adv.map.fastest.totalSteps + "; Value: " + adv.map.fastest.totalValue + "; Weight: " + adv.map.fastest.totalWeight + "; Time: " + adv.map.fastest.totalTime + "\n");
+        System.out.println("Steps: " + (adv.map.fastest.totalSteps - 1) + "; Value: " + adv.map.fastest.totalValue + "; Weight: " + adv.map.fastest.totalWeight + "; Time: " + adv.map.fastest.totalTime + "\n");
         printMatrix(fastestMatrix);
     }
 }
