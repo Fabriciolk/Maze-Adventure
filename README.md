@@ -11,7 +11,7 @@ As mentioned, the adventurer will explore que maze in a trial and error approach
 
 ### How to use
 
-To create the maze and all items and your attribute, a text file is given (terminal argument: java MazeAdventure file.txt). The file has a default format that consist in a line that contain the number of line and the number of columns of matrix, n lines below that represents the matrix itself, where '.' is a free position and 'X' is a wall, a line that contain a single number, representing the number of items in maze, m lines below for each item, following the format (coordinateX) (coordinteY) (value) (name). Finally, two lines that represent the initial and final positions (coodinates), respectivly, following the format (coordinateX) (coordinteY). Created the text file, just put it on directory MazeAdventurer\Environment\Maps and change the argument on terminal. The default file is below:
+To create the maze and all items and your attribute, a text file is given (terminal argument: java MazeAdventure file.txt). The file has a default format that consist in a line that contain the number of line and the number of columns of matrix, n lines below that represents the matrix itself, where '.' is a free position and 'X' is a wall, a line that contain a single number, representing the number of items in maze, m lines below for each item, following the format (coordinateX) (coordinteY) (value) (name). Finally, two lines that represent the initial and final positions (coodinates), respectivly, following the format (coordinateX) (coordinteY). Created the text file, just put it on directory MazeAdventurer\Environment\Maps and change the argument on terminal. The default file is in below:
 
 ```
 7 5
@@ -32,7 +32,7 @@ To create the maze and all items and your attribute, a text file is given (termi
 
 ### Result
 
-Ater tried all possible paths in maze, the program will print on screen (terminal) all best paths, in order shortest, longest, most valuable and fastest. Each impression is a matrix where the inicial position is a char 'I', the final position is a char 'F' and the path is represented as a sequence of chars 'o'. The result for the default file is below:
+Ater tried all possible paths in maze, the program will print on screen (terminal) all best paths, in order shortest, longest, most valuable and fastest. Each impression is a matrix where the inicial position is a char 'I', the final position is a char 'F' and the path is represented as a sequence of chars 'o'. The result for the default file is in below:
 
 ```
 Shortest path:
