@@ -1,4 +1,4 @@
-# Maze-Adventure
+# Maze-Adventurer
 A trial and error approach in a maze 
 
 ### What is it about
